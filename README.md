@@ -32,12 +32,25 @@ psychometics.
 
 ## Tracks
 
-Originally, there was just one track that meet every 2 weeks on Saturdays. (For a while this slowed down to meeting every 4 weeks. But later returned to every 2 weeks.)
+Originally, there was just one track that meet every 2 weeks on Saturdays. For a while this Saturday track slowed down to meeting every 4 weeks. But later returned to its every 2 weeks cadence.
 
 Later, a Monday track was created that (usually) met every 4 weeks.
 
-When books were read, we wouldn't read the whole book for on meeting.
-But instead divide the book between many meetings.
+The cadence was sometimes adjusted as core individuals in the group had scheduling conflicts.
+
+
+## Format
+
+When books were read, we wouldn't read the whole book for one meeting.
+But instead we would divide the book between many meetings.
+
+At least one person would provide an overview of the reading, that would help facilitate the discussion.
+(Usually there would be 1, 2, or 3 people providing overviews.)
+
+Often others would jump in with comments or questions, while the overviews were being given.
+
+(Not so much in the beginning, but after this had been going on for a number of years, we started often going to a restaurant afterwards to eat, drink, hang out, and socialize.
+Often related discussions took place in this social setting.)
 
 
 ## Readings (Saturday Track)
