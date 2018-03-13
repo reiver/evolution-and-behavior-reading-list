@@ -57,6 +57,6 @@ But instead divide the book between many meetings.
 
 | Date Started | Title | URL | Selected By |
 | ------------ | ----- | --- | ----------- |
-| October 31st, 2016  | **"The Secret of Our Success"**, by Joseph Henrich | http://www.goodreads.com/book/show/25761655-the-secret-of-our-success | VOTE |
-| April 17th, 2017    | **"The Extended Phenotype"**, by Richard Dawkins   | https://www.goodreads.com/book/show/61538.The_Extended_Phenotype      | VOTE |
-| November 27th, 2017 | **"The Gene"**, by Siddhartha Mukherjee            | https://www.goodreads.com/book/show/27276428-the-gene                 | VOTE |
+| October 31st, 2016  | **"The Secret of Our Success"**, by Joseph Henrich | http://www.goodreads.com/book/show/25761655-the-secret-of-our-success | VOTE      |
+| April 17th, 2017    | **"The Extended Phenotype"**, by Richard Dawkins   | https://www.goodreads.com/book/show/61538.The_Extended_Phenotype      | ORGANIZER |
+| November 27th, 2017 | **"The Gene"**, by Siddhartha Mukherjee            | https://www.goodreads.com/book/show/27276428-the-gene                 | VOTE      |
