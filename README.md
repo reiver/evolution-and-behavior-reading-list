@@ -36,6 +36,9 @@ Originally, there was just one track that meet every 2 weeks on Saturdays. (For 
 
 Later, a Monday track was created that (usually) met every 4 weeks.
 
+When books were read, we wouldn't read the whole book for on meeting.
+But instead divide the book between many meetings.
+
 
 ## Readings (Saturday Track)
 
@@ -44,6 +47,7 @@ Later, a Monday track was created that (usually) met every 4 weeks.
 | June 22nd, 2013      | **"Conceptual Foundations of Evolutionary Psychology"**, by John Tooby, Leda Cosmides        | https://www.cep.ucsb.edu/papers/bussconceptual05.pdf                                 | ORGANIZER |
 | September 14th, 2013 | **"The Deep Structure of Human Society: Primate Origins and Evolution"**, by Bernard Chapais | https://www.goodreads.com/book/show/7461471-mind-the-gap                             | ORGANIZER |
 | September 28th, 2013 | **"Natural Language and Natural Selection"**, by Steven Pinker, Paul Bloom                   | http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.231.4056&rep=rep1&type=pdf  | ORGANIZER |
+| October 12th, 2013   | **"The Secret Powers of Time"**, by Philip Zimbardo                                          | https://youtu.be/A3oIiH7BLmg                                                         | ORGANIZER |
 | February 11th, 2017  | **"Hierarchy in the Forest: The Evolution of Egalitarian Behavior"**, by Christopher Boehm   | https://www.goodreads.com/book/show/2131522.Hierarchy_in_the_Forest                  | VOTE      |
 | July 22nd, 2017      | **"The Hidden Agenda of the Political Mind"**, by Jason Weeden, Robert Kurzban               | https://www.goodreads.com/book/show/21981657-the-hidden-agenda-of-the-political-mind | VOTE      |
 | January 13th, 2018   | **"The Biology of Moral Systems"**, by Richard D. Alexander                                  | https://www.goodreads.com/book/show/1446851.The_Biology_of_Moral_Systems             | VOTE      |
