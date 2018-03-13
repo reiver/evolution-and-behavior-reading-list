@@ -57,20 +57,21 @@ Often related discussions took place in this social setting.)
 
 | Date Started | Title | URL | Selected By |
 | ------------ | ----- | --- | ----------- |
-| June 22nd, 2013      | **"Conceptual Foundations of Evolutionary Psychology"**, by John Tooby, Leda Cosmides        | https://www.cep.ucsb.edu/papers/bussconceptual05.pdf                                  | ORGANIZER |
-| September 14th, 2013 | **"The Deep Structure of Human Society: Primate Origins and Evolution"**, by Bernard Chapais | https://www.goodreads.com/book/show/7461471-mind-the-gap                              | ORGANIZER |
-| September 28th, 2013 | **"Natural Language and Natural Selection"**, by Steven Pinker, Paul Bloom                   | http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.231.4056&rep=rep1&type=pdf   | ORGANIZER |
-| October 12th, 2013   | **"The Secret Powers of Time"**, by Philip Zimbardo                                          | https://youtu.be/A3oIiH7BLmg                                                          | VOTE      |
-| October 12th, 2013   | **"Life History Theory"**                                                                    | https://en.wikipedia.org/wiki/Life_history_theory                                     | VOTE      |
-| November 9th, 2013   | **"The 10,000 Year Explosion"**, by Gregory Cochran, Henry Harpending                        | https://www.goodreads.com/book/show/6033964-the-10-000-year-explosion                 | VOTE      |
-| March 1st, 2014      | **"The Blank Slate"**, by Steven Pinker                                                      | https://www.goodreads.com/book/show/5752.The_Blank_Slate                              | VOTE      |
-| June 14th, 2014      | **"The Righteous Mind"**, by Jonathan Haidt                                                  | https://www.goodreads.com/book/show/11324722-the-righteous-mind                       | VOTE      |
-| September 20th, 2014 | **"The Man Who Mistook His Wife for a Chattel"**, by Margo Wilson, Martin Daly               | https://www.goodreads.com/book/show/1056451.The_Adapted_Mind                          | VOTE      |
-| September 20th, 2014 | **"Impact of the Uncertainty of Paternity on Family Law"**, by Margo Wilson                  | http://heinonline.org/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/utflr45&section=16 | VOTE      |
-| October 18th, 2014   | **"Why Everyone (Else) Is a Hypocrite: Evolution and the Modular Mind"**, by Robert Kurzban  | https://www.goodreads.com/book/show/8733371-why-everyone-else-is-a-hypocrite          | VOTE      |
-| February 11th, 2017  | **"Hierarchy in the Forest: The Evolution of Egalitarian Behavior"**, by Christopher Boehm   | https://www.goodreads.com/book/show/2131522.Hierarchy_in_the_Forest                   | VOTE      |
-| July 22nd, 2017      | **"The Hidden Agenda of the Political Mind"**, by Jason Weeden, Robert Kurzban               | https://www.goodreads.com/book/show/21981657-the-hidden-agenda-of-the-political-mind  | VOTE      |
-| January 13th, 2018   | **"The Biology of Moral Systems"**, by Richard D. Alexander                                  | https://www.goodreads.com/book/show/1446851.The_Biology_of_Moral_Systems              | VOTE      |
+| June 22nd, 2013      | **"Conceptual Foundations of Evolutionary Psychology"**, by John Tooby, Leda Cosmides        | https://www.cep.ucsb.edu/papers/bussconceptual05.pdf                                      | ORGANIZER |
+| September 14th, 2013 | **"The Deep Structure of Human Society: Primate Origins and Evolution"**, by Bernard Chapais | https://www.goodreads.com/book/show/7461471-mind-the-gap                                  | ORGANIZER |
+| September 28th, 2013 | **"Natural Language and Natural Selection"**, by Steven Pinker, Paul Bloom                   | http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.231.4056&rep=rep1&type=pdf       | ORGANIZER |
+| October 12th, 2013   | **"The Secret Powers of Time"**, by Philip Zimbardo                                          | https://youtu.be/A3oIiH7BLmg                                                              | VOTE      |
+| October 12th, 2013   | **"Life History Theory"**                                                                    | https://en.wikipedia.org/wiki/Life_history_theory                                         | VOTE      |
+| November 9th, 2013   | **"The 10,000 Year Explosion"**, by Gregory Cochran, Henry Harpending                        | https://www.goodreads.com/book/show/6033964-the-10-000-year-explosion                     | VOTE      |
+| March 1st, 2014      | **"The Blank Slate"**, by Steven Pinker                                                      | https://www.goodreads.com/book/show/5752.The_Blank_Slate                                  | VOTE      |
+| June 14th, 2014      | **"The Righteous Mind"**, by Jonathan Haidt                                                  | https://www.goodreads.com/book/show/11324722-the-righteous-mind                           | VOTE      |
+| September 20th, 2014 | **"The Man Who Mistook His Wife for a Chattel"**, by Margo Wilson, Martin Daly               | https://www.goodreads.com/book/show/1056451.The_Adapted_Mind                              | VOTE      |
+| September 20th, 2014 | **"Impact of the Uncertainty of Paternity on Family Law"**, by Margo Wilson                  | http://heinonline.org/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/utflr45&section=16     | VOTE      |
+| September 20th, 2014 | **"Is Parent-Offspring  Conflict Sex-Linked?"**, by Martin Daly, Margo Wilson                | https://www.martindaly.ca/uploads/2/3/7/0/23707972/daly___wilson_1990_freud_vs_darwin.pdf | VOTE      |
+| October 18th, 2014   | **"Why Everyone (Else) Is a Hypocrite: Evolution and the Modular Mind"**, by Robert Kurzban  | https://www.goodreads.com/book/show/8733371-why-everyone-else-is-a-hypocrite              | VOTE      |
+| February 11th, 2017  | **"Hierarchy in the Forest: The Evolution of Egalitarian Behavior"**, by Christopher Boehm   | https://www.goodreads.com/book/show/2131522.Hierarchy_in_the_Forest                       | VOTE      |
+| July 22nd, 2017      | **"The Hidden Agenda of the Political Mind"**, by Jason Weeden, Robert Kurzban               | https://www.goodreads.com/book/show/21981657-the-hidden-agenda-of-the-political-mind      | VOTE      |
+| January 13th, 2018   | **"The Biology of Moral Systems"**, by Richard D. Alexander                                  | https://www.goodreads.com/book/show/1446851.The_Biology_of_Moral_Systems                  | VOTE      |
 
 
 ## Readings (Monday Track)
