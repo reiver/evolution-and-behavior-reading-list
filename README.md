@@ -57,8 +57,8 @@ Often related discussions took place in this social setting.)
 
 | Date Started | Title | URL | Selected By |
 | ------------ | ----- | --- | ----------- |
-| June 22nd, 2013      | **"Conceptual Foundations of Evolutionary Psychology"**, by John Tooby, Leda Cosmides        | https://www.cep.ucsb.edu/papers/bussconceptual05.pdf                                      | ORGANIZER |
-| September 14th, 2013 | **"The Deep Structure of Human Society: Primate Origins and Evolution"**, by Bernard Chapais | https://www.goodreads.com/book/show/7461471-mind-the-gap                                  | ORGANIZER |
+| June 22nd, 2013      | **"Conceptual Foundations of Evolutionary Psychology"**, by John Tooby, Leda Cosmides              | https://www.cep.ucsb.edu/papers/bussconceptual05.pdf                                      | ORGANIZER |
+| September 14th, 2013 | **"The Deep Structure of Human Society: Primate Origins and Evolution"**, by Bernard Chapais       | https://www.goodreads.com/book/show/7461471-mind-the-gap                                  | ORGANIZER |
 | September 28th, 2013 | **"Natural Language and Natural Selection"**, by Steven Pinker, Paul Bloom                         | http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.231.4056&rep=rep1&type=pdf       | ORGANIZER |
 | October 12th, 2013   | **"The Secret Powers of Time"**, by Philip Zimbardo                                                | https://youtu.be/A3oIiH7BLmg                                                              | VOTE      |
 | October 12th, 2013   | **"Life History Theory"**                                                                          | https://en.wikipedia.org/wiki/Life_history_theory                                         | VOTE      |
@@ -72,6 +72,8 @@ Often related discussions took place in this social setting.)
 | April 18th, 2015     | **"Catching Fire: How Cooking Made Us Human"**, by Richard W. Wrangham                             | https://www.goodreads.com/book/show/11148989-catching-fire                                | VOTE      |
 | June 27th, 2015      | **"The Handicap Principle: A Missing Piece of Darwin's Puzzle"**, by Amotz Zahavi, Avishag Zahavi  | https://www.goodreads.com/book/show/11148989-catching-fire                                | VOTE      |
 | September 19th, 2015 | **"The Mating Mind: How Sexual Choice Shaped the Evolution of Human Nature"**, by Geoffrey Miller  | https://www.goodreads.com/book/show/27486.The_Mating_Mind                                 | VOTE      |
+| January 23rd, 2016   | **"The hominid entry into the cognitive niche"**, by H. Clark Barrett, Leda Cosmides, John Tooby   | https://www.goodreads.com/book/show/919616.The_Evolution_of_Mind                          | VOTE      |
+| January 23rd, 2016   | **"The Shape of Thought: How Mental Adaptations Evolve"**, by H. Clark Barrett                     | https://www.goodreads.com/book/show/23027581-the-shape-of-thought                         | VOTE      |
 | February 11th, 2017  | **"Hierarchy in the Forest: The Evolution of Egalitarian Behavior"**, by Christopher Boehm         | https://www.goodreads.com/book/show/2131522.Hierarchy_in_the_Forest                       | VOTE      |
 | July 22nd, 2017      | **"The Hidden Agenda of the Political Mind"**, by Jason Weeden, Robert Kurzban                     | https://www.goodreads.com/book/show/21981657-the-hidden-agenda-of-the-political-mind      | VOTE      |
 | January 13th, 2018   | **"The Biology of Moral Systems"**, by Richard D. Alexander                                        | https://www.goodreads.com/book/show/1446851.The_Biology_of_Moral_Systems                  | VOTE      |
