@@ -93,7 +93,8 @@ Often related discussions took place in this social setting.)
 
 | Date Started | Title | URL | Selected By |
 | ------------ | ----- | --- | ----------- |
-| March 23rd, 2015    | **"The Selfish Gene"**, by Richard Dawkins         | https://www.goodreads.com/book/show/61535.The_Selfish_Gene            | ORGANIZER |
-| October 31st, 2016  | **"The Secret of Our Success"**, by Joseph Henrich | http://www.goodreads.com/book/show/25761655-the-secret-of-our-success | VOTE      |
-| April 17th, 2017    | **"The Extended Phenotype"**, by Richard Dawkins   | https://www.goodreads.com/book/show/61538.The_Extended_Phenotype      | ORGANIZER |
-| November 27th, 2017 | **"The Gene"**, by Siddhartha Mukherjee            | https://www.goodreads.com/book/show/27276428-the-gene                 | VOTE      |
+| March 23rd, 2015    | **"The Selfish Gene"**, by Richard Dawkins                                                        | https://www.goodreads.com/book/show/61535.The_Selfish_Gene             | ORGANIZER |
+| January 11th, 2016  | **"The Folly of Fools: The Logic of Deceit and Self-Deception in Human Life"**, by Robert Trivers | https://www.goodreads.com/book/show/13033022-the-folly-of-fools        | VOTE      |
+| October 31st, 2016  | **"The Secret of Our Success"**, by Joseph Henrich                                                | https://www.goodreads.com/book/show/25761655-the-secret-of-our-success | VOTE      |
+| April 17th, 2017    | **"The Extended Phenotype"**, by Richard Dawkins                                                  | https://www.goodreads.com/book/show/61538.The_Extended_Phenotype       | ORGANIZER |
+| November 27th, 2017 | **"The Gene"**, by Siddhartha Mukherjee                                                           | https://www.goodreads.com/book/show/27276428-the-gene                  | VOTE      |
