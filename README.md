@@ -94,7 +94,7 @@ Often related discussions took place in this social setting.)
 | Date Started | Title | URL | Selected By |
 | ------------ | ----- | --- | ----------- |
 | March 23rd, 2015     | **"The Selfish Gene"**, by Richard Dawkins                                                        | https://www.goodreads.com/book/show/61535.The_Selfish_Gene               | ORGANIZER |
-| September 21st, 2015 | **" How the Mind Works"**, by Steven Pinker                                                       | https://www.goodreads.com/book/show/835623.How_the_Mind_Works            | VOTE      |
+| September 21st, 2015 | **"How the Mind Works"**, by Steven Pinker                                                        | https://www.goodreads.com/book/show/835623.How_the_Mind_Works            | VOTE      |
 | January 11th, 2016   | **"The Folly of Fools: The Logic of Deceit and Self-Deception in Human Life"**, by Robert Trivers | https://www.goodreads.com/book/show/13033022-the-folly-of-fools          | VOTE      |
 | June 20th, 2016      | **"The Evolution of Everything"**, by Matt Ridley                                                 | https://www.goodreads.com/book/show/25816925-the-evolution-of-everything | VOTE      |
 | October 31st, 2016   | **"The Secret of Our Success"**, by Joseph Henrich                                                | https://www.goodreads.com/book/show/25761655-the-secret-of-our-success   | VOTE      |
