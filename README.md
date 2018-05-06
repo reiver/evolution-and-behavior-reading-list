@@ -87,6 +87,7 @@ Often related discussions took place in this social setting.)
 | February 11th, 2017  | **"Hierarchy in the Forest: The Evolution of Egalitarian Behavior"**, by Christopher Boehm                                                            | https://www.goodreads.com/book/show/2131522.Hierarchy_in_the_Forest                       | VOTE      |
 | July 22nd, 2017      | **"The Hidden Agenda of the Political Mind"**, by Jason Weeden, Robert Kurzban                                                                        | https://www.goodreads.com/book/show/21981657-the-hidden-agenda-of-the-political-mind      | VOTE      |
 | January 13th, 2018   | **"The Biology of Moral Systems"**, by Richard D. Alexander                                                                                           | https://www.goodreads.com/book/show/1446851.The_Biology_of_Moral_Systems                  | VOTE      |
+| May 19th, 2018       | **"Who We Are and How We Got Here: Ancient DNA and the New Science of the Human Past"**, by David Reich                                               | https://www.goodreads.com/book/show/35749414-who-we-are-and-how-we-got-here               | VOTE      |
 
 
 ## Readings (Monday Track)
