@@ -89,6 +89,7 @@ Often related discussions took place in this social setting.)
 | January 13th, 2018   | **"The Biology of Moral Systems"**, by Richard D. Alexander                                                                                           | https://www.goodreads.com/book/show/1446851.The_Biology_of_Moral_Systems                  | VOTE      |
 | May 19th, 2018       | **"Who We Are and How We Got Here: Ancient DNA and the New Science of the Human Past"**, by David Reich                                               | https://www.goodreads.com/book/show/35749414-who-we-are-and-how-we-got-here               | VOTE      |
 | October 17th, 2018   | **"In Gods We Trust: The Evolutionary Landscape of Religion"**, by Scott Atran                                                                        | https://www.goodreads.com/book/show/45747.In_Gods_We_Trust                                | VOTE      |
+| December 15th, 2018  | **"Blueprint: How DNA Makes Us Who We Are"**, by Robert Plomin                                                                                        | https://www.goodreads.com/book/show/39074555-blueprint                                    | VOTE      |
 
 
 ## Readings (Monday Track)
