@@ -103,3 +103,11 @@ Often related discussions took place in this social setting.)
 | October 31st, 2016   | **"The Secret of Our Success"**, by Joseph Henrich                                                | https://www.goodreads.com/book/show/25761655-the-secret-of-our-success   | VOTE      |
 | April 17th, 2017     | **"The Extended Phenotype"**, by Richard Dawkins                                                  | https://www.goodreads.com/book/show/61538.The_Extended_Phenotype         | ORGANIZER |
 | November 27th, 2017  | **"The Gene"**, by Siddhartha Mukherjee                                                           | https://www.goodreads.com/book/show/27276428-the-gene                    | VOTE      |
+| May 18, 2018  | **"Who We Are & How We Got Here"**, by David Reich                                                           | https://www.goodreads.com/book/show/35749414-who-we-are-and-how-we-got-here                    | VOTE      |
+| November 9, 2018  | **"Cognitive Gadgets"**, by Cecilia Heyes                                                           | https://www.goodreads.com/book/show/36700770-cognitive-gadgets                    | VOTE      |
+| January 7, 2019  | **"Behave"**, by Robert Sapolsky                                                           | https://www.goodreads.com/book/show/31170723-behave                   | VOTE      |
+| February 4, 2020  | **"Mama's Last Hug"**, by Frans de Waal                                                           | https://www.goodreads.com/book/show/45894068-mama-s-last-hug                  | VOTE      |
+| April 21, 2020  | **"Origins"**, by Lewis Dartnell                                                           | https://www.goodreads.com/book/show/42118857-origins                  | VOTE      |
+| September 9, 2020  | **"How Emotions are Made"**, by Lisa Feldman Barrett                                                           | https://www.goodreads.com/book/show/23719305-how-emotions-are-made                  | VOTE      |
+| December 4, 2020  | **"Human Diversity"**, by Charles Murray                                                           | https://www.goodreads.com/book/show/50202799-human-diversity                  | VOTE      |
+
